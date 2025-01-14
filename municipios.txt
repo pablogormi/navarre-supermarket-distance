@@ -1,0 +1,273 @@
+MUNICIPIO
+Abáigar
+Abárzuza / Abartzuza
+Abaurregaina / Abaurrea Alta
+Abaurrepea / Abaurrea Baja
+Aberin
+Ablitas
+Adiós
+Aguilar de Codés
+Aibar / Oibar
+Altsasu / Alsasua
+Allín / Allin
+Allo
+Améscoa Baja
+Ancín / Antzin
+Andosilla
+Ansoáin / Antsoain
+Anue
+Añorbe
+Aoiz / Agoitz
+Araitz
+Aranarache / Aranaratxe
+Arantza
+Aranguren
+Arano
+Arakil
+Aras
+Arbizu
+Arce / Artzi
+Los Arcos
+Arellano
+Areso
+Arguedas
+Aria
+Aribe
+Armañanzas
+Arróniz
+Arruazu
+Artajona
+Artazu
+Atetz
+Ayegui / Aiegi
+Azagra
+Azuelo
+Bakaiku
+Barásoain
+Barbarin
+Bargota
+Barillas
+Basaburua
+Baztan
+Beire
+Belascoáin
+Berbinzana
+Bertizarana
+Betelu
+Biurrun-Olcoz
+Buñuel
+Auritz / Burguete
+Burgui / Burgi
+Burlada / Burlata
+El Busto
+Cabanillas
+Cabredo
+Cadreita
+Caparroso
+Cárcar
+Carcastillo
+Cascante
+Cáseda
+Castejón
+Castillonuevo
+Cintruénigo
+Ziordia
+Cirauqui / Zirauki
+Ciriza / Ziritza
+Cizur
+Corella
+Cortes
+Desojo
+Dicastillo
+Donamaria
+Etxalar
+Echarri / Etxarri
+Etxarri Aranatz
+Etxauri
+Valle de Egüés / Eguesibar
+Elgorriaga
+Noáin (Valle de Elorz) / Noain (Elortzibar)
+Enériz / Eneritz
+Eratsun
+Ergoiena
+Erro
+Ezcároz / Ezkaroze
+Eslava
+Esparza de Salazar / Espartza Zaraitzu
+Espronceda
+Estella-Lizarra
+Esteribar
+Etayo
+Eulate
+Ezcabarte
+Ezkurra
+Ezprogui
+Falces
+Fitero
+Fontellas
+Funes
+Fustiñana
+Galar
+Gallipienzo / Galipentzu
+Gallués / Galoze
+Garaioa
+Garde
+Garínoain
+Garralda
+Genevilla
+Goizueta
+Goñi
+Güesa / Gorza
+Guesálaz / Gesalatz
+Guirguillano
+Huarte / Uharte
+Uharte Arakil
+Ibargoiti
+Igúzquiza
+Imotz
+Irañeta
+Isaba / Izaba
+Ituren
+Iturmendi
+Iza / Itza
+Izagaondoa
+Izalzu / Itzaltzu
+Jaurrieta
+Javier
+Juslapeña / Txulapain
+Beintza-Labaien
+Lakuntza
+Lana
+Lantz
+Lapoblación
+Larraga
+Larraona
+Larraun
+Lazagurría
+Leache / Leatxe
+Legarda
+Legaria
+Leitza
+Leoz / Leotz
+Lerga
+Lerín
+Lesaka
+Lezaun
+Liédena
+Lizoain-Arriasgoiti / Lizoainibar-Arriasgoiti
+Lodosa
+Lónguida / Longida
+Lumbier
+Luquin
+Mañeru
+Marañón
+Marcilla
+Mélida
+Mendavia
+Mendaza
+Mendigorria
+Metauten
+Milagro
+Mirafuentes
+Miranda de Arga
+Monreal / Elo
+Monteagudo
+Morentin
+Mues
+Murchante
+Murieta
+Murillo el Cuende
+Murillo el Fruto
+Muruzábal
+Navascués / Nabaskoze
+Nazar
+Obanos
+Oco
+Ochagavía / Otsagabia
+Odieta
+Oiz
+Oláibar
+Olazti / Olazagutía
+Olejua
+Olite / Erriberri
+Olóriz / Oloritz
+Cendea de Olza / Oltza Zendea
+Valle de Ollo / Ollaran
+Orbaizeta
+Orbara
+Orísoain
+Oronz / Orontze
+Oroz-Betelu / Orotz-Betelu
+Oteiza
+Pamplona / Iruña
+Peralta / Azkoien
+Petilla de Aragón
+Piedramillera
+Pitillas
+Puente la Reina / Gares
+Pueyo / Puiu
+Ribaforada
+Romanzado / Erromantzatua
+Roncal / Erronkari
+Orreaga / Roncesvalles
+Sada
+Saldias
+Salinas de Oro / Jaitz
+San Adrián
+Sangüesa / Zangoza
+San Martín de Unx
+Sansol
+Santacara
+Doneztebe / Santesteban
+Sarriés / Sartze
+Sartaguda
+Sesma
+Sorlada
+Sunbilla
+Tafalla
+Tiebas-Muruarte de Reta
+Tirapu
+Torralba del Río
+Torres del Río
+Tudela
+Tulebras
+Úcar
+Ujué / Uxue
+Ultzama
+Unciti
+Unzué / Untzue
+Urdazubi / Urdax
+Urdiain
+Urraúl Alto
+Urraúl Bajo
+Urroz-Villa
+Urroz
+Urzainqui / Urzainki
+Uterga
+Uztárroz / Uztarroze
+Luzaide / Valcarlos
+Valtierra
+Bera
+Viana
+Vidángoz / Bidankoze
+Bidaurreta
+Villafranca
+Villamayor de Monjardín
+Hiriberri / Villanueva de Aezkoa
+Villatuerta
+Villava / Atarrabia
+Igantzi
+Valle de Yerri / Deierri
+Yesa
+Zabalza / Zabaltza
+Zubieta
+Zugarramurdi
+Zúñiga
+Barañáin / Barañain
+Berrioplano / Berriobeiti
+Berriozar
+Irurtzun
+Beriáin
+Orkoien
+Zizur Mayor / Zizur Nagusia
+Lekunberri
