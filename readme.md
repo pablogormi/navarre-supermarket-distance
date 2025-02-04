@@ -6,6 +6,8 @@ In order to speed up calculation and simplify the visualization, it is limited t
 
 Currently the map is saved to a html file, `mapa.html` (the one already uploaded is the result of running the notebook as-is), but it can be directly printed or modified in other ways.
 
+A static version of this repository's `mapa.html` is available [here](https://pablogormi.github.io/navarre-supermarket-distance/mapa.html).
+
 ## Requirements
 
 The required libraries are osmnx and geopandas.
